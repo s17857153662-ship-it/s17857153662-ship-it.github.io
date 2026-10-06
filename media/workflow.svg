@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">内容生产与数据反馈流程示意</title>
+  <desc id="desc">脚本、拍摄、剪辑、发布和数据复盘构成一个持续迭代的流程。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#102023"/>
+      <stop offset="1" stop-color="#071012"/>
+    </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" fill="none" stroke="#55716f" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="700" fill="url(#bg)"/>
+  <rect width="1000" height="700" fill="url(#grid)"/>
+  <path d="M86 564H914" stroke="#769895" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M86 564V116" stroke="#769895" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M128 438C244 440 245 318 374 322S520 448 640 290 792 326 887 176" fill="none" stroke="#86c6ba" stroke-width="6" stroke-linecap="round"/>
+  <path d="M128 438C244 440 245 318 374 322S520 448 640 290 792 326 887 176" fill="none" stroke="#86c6ba" stroke-width="20" stroke-linecap="round" stroke-opacity=".08"/>
+  <g fill="#0e1d1f" stroke="#86c6ba" stroke-width="5">
+    <circle cx="128" cy="438" r="14"/><circle cx="374" cy="322" r="14"/><circle cx="640" cy="290" r="14"/><circle cx="887" cy="176" r="14"/>
+  </g>
+  <g fill="#dce8e4" font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="124" y="390" font-size="27">选题与脚本</text>
+    <text x="338" y="272" font-size="27">拍摄与剪辑</text>
+    <text x="594" y="242" font-size="27">发布与测试</text>
+    <text x="736" y="130" font-size="27">数据复盘</text>
+  </g>
+  <g fill="#85a29d" font-family="Bahnschrift, Segoe UI, sans-serif" font-size="18">
+    <text x="88" y="628">Content → Distribution → Feedback</text>
+    <text x="852" y="628">2026</text>
+  </g>
+</svg>

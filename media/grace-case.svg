@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960" role="img" aria-labelledby="t d">
+  <title id="t">Grace 案例占位封面</title><desc id="d">仅显示案例编号和已匹配的视频编号，不使用其他视频画面。</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183a39"/><stop offset="1" stop-color="#081315"/></linearGradient></defs>
+  <rect width="540" height="960" fill="url(#g)"/>
+  <circle cx="370" cy="300" r="255" fill="none" stroke="#8fc4b7" opacity=".25"/>
+  <circle cx="370" cy="300" r="185" fill="none" stroke="#8fc4b7" opacity=".15"/>
+  <path d="M-80 630 620 320M-80 675 620 365" fill="none" stroke="#8fc4b7" opacity=".23"/>
+  <text x="46" y="90" fill="#a2cec3" font-family="Arial,sans-serif" font-size="22" letter-spacing="4">CASE 001 / GRACE</text>
+  <text x="45" y="700" fill="#e6f1ed" font-family="Arial,sans-serif" font-size="92" font-weight="700">VIDEO</text>
+  <text x="45" y="788" fill="#e6f1ed" font-family="Arial,sans-serif" font-size="92" font-weight="700">+ SCRIPT</text>
+  <text x="48" y="875" fill="#a2cec3" font-family="Arial,sans-serif" font-size="24" letter-spacing="2">VID 7563254625273466126</text>
+</svg>
