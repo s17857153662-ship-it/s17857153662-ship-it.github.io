@@ -1,0 +1,15 @@
+Planet portal assets
+
+earth.webp
+Source: NASA's Earth Observatory, Blue Marble 2002.
+https://science.nasa.gov/resource/blue-marble-2002/
+Original image downloaded from NASA's asset link and encoded as WebP.
+No NASA endorsement is implied.
+
+earth-flight.mp4 and earth-flight.webp
+Source: Earth approach asset explicitly supplied in the user's Planet Jumping reference.
+https://d2ol7oe51mr4n9.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/fc3ded42-e845-41f3-a830-5cab512d79cd.mp4
+Local preview asset, re-encoded at 1280px / 24fps without audio.
+Original source retained under research/earth-portal-assets/.
+
+SiteIcon.jsx contains original SVG paths with a consistent 24px stroke grid.
